@@ -1,0 +1,68 @@
+.links:hover {
+    background-color: lightcoral;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    position: fixed;
+    top: 0px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+}
+
+.links {
+    color: #fff;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+    display: inline;
+    font-size: 20px
+}
+
+.links:hover {
+    background-color: dodgerblue;
+    text-decoration: underline;
+}
+.img2 {
+    width: 250px;
+    height: 250px;
+}
+
+body{
+    text-align: center;
+}
+
+.img1{
+    width: 700px;
+    height: 500px;
+}
+
+.container
+{
+    text-align: center;
+}
+
+#myCarousel
+{
+    background-color: red;
+}
+
+.carousel-inner p 
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+
